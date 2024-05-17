@@ -1,0 +1,26 @@
+@media only screen and (max-width: 900px) {
+  .navbar ul {
+    display: none;
+  }
+
+  .container-left, .container-right {
+    flex-direction: column;
+    padding: 2em;
+    text-align: center;
+  }
+
+  .number-section {
+    font-size: 3rem;
+  }
+
+  .title-section {
+    font-size: 2rem;
+  }
+
+  .descricao {
+    font-size: 1em;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
+}

@@ -1,3 +1,6 @@
+import '../styles/styles-tablet.css';
+import '../styles/styles-desktop.css';
+
 
 const CardRight = ({id, img, number, title, first_text, second_text}) => {
   return (

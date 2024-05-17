@@ -1,5 +1,8 @@
 import "../styles/styles-desktop.css";
-import zebraImg from '../assets/1-zebra.svg'
+import "../styles/styles-mobile.css";
+import "../styles/styles-mobile.css";
+import zebraImg from "../assets/1-zebra.svg";
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const Banner = () => {
   return (
@@ -23,7 +26,7 @@ const Banner = () => {
 
       <img src={zebraImg} alt="" />
     </section>
-  )
-}
+  );
+};
 
-export default Banner
+export default Banner;

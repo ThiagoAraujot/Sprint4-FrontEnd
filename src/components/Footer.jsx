@@ -1,4 +1,5 @@
 import "../styles/styles-desktop.css";
+import '../styles/styles-mobile.css';
 import logo from "../assets/hc_logo2.svg";
 
 const Footer = () => {

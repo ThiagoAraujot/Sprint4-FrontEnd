@@ -1,4 +1,6 @@
 import '../styles/styles-desktop.css';
+import '../styles/styles-mobile.css';
+
 
 const Forms = () => {
   return (

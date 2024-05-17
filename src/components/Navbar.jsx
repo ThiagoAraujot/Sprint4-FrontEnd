@@ -1,4 +1,6 @@
 import '../styles/styles-desktop.css';
+import '../styles/styles-tablet.css';
+import '../styles/styles-mobile.css';
 import logoImg from "../assets/hc-logo.png";
 
 const Navbar = () => {
