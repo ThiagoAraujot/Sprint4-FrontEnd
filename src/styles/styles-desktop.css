@@ -290,7 +290,7 @@ div.public-img img {
 }
 
 div.public-txt {
-  width: 650px;
+  width: 700px;
   display: flex;
   flex-direction: column;
   gap: 1em;
@@ -314,7 +314,7 @@ div.public-txt {
 
 .descricao {
   color: rgba(255, 255, 255, 0.85);
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-style: normal;
   font-weight: 400;
   line-height: 160%; /* 2rem */
@@ -340,10 +340,11 @@ div.public-txt {
 }
 
 div.problema-txt {
-  width: 650px;
+  width: 700px;
   display: flex;
   flex-direction: column;
   gap: 1em;
+
 }
 
 div.problema-img img {
@@ -449,7 +450,7 @@ label {
 }
 
 .form-img {
-  width: 20rem;
+  width: 30rem;
 }
 
 .change-color {

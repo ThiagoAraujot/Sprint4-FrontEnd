@@ -1,4 +1,5 @@
 import '../styles/styles-desktop.css';
+import enfermeira4 from "../assets/enfermeira4.png"
 
 const Forms = () => {
   return (
@@ -7,7 +8,7 @@ const Forms = () => {
         <h2 className="banner-subtitle">Faça parte dessa iniciativa!</h2>
         <h1 className="banner-title">HC GAMING</h1>
         <form action="">
-          <img src="imagens/07.svg" alt="" className="form-img" />
+          <img src={enfermeira4} alt="" className="form-img" />
 
           <div className="form-txt">
             <label id="label-nome" className="form-label">
