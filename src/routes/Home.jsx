@@ -3,6 +3,10 @@ import CardRight from "../components/CardRight";
 import Navbar from "../components/Navbar";
 import "../styles/styles-desktop.css";
 import girlImg from "../assets/1-girl.png";
+import girlImg2 from "../assets/2-girl.png";
+import enfermeira from "../assets/enfermeira.png"
+import enfermeira2 from "../assets/enfermeira2.png"
+import enfermeira3 from "../assets/enfermeira3.png"
 import CardLeft from "../components/CardLeft";
 import Footer from "../components/Footer";
 import Forms from "../components/Forms";
@@ -23,7 +27,7 @@ const Home = () => {
 
       <CardLeft
         id="problema"
-        img={girlImg}
+        img={girlImg2}
         number="02"
         title="Problemática"
         first_text="Na jornada hospitalar, cada detalhe conta. E sabemos que a falta de
@@ -36,7 +40,7 @@ const Home = () => {
 
       <CardRight
         id="impactos"
-        img={girlImg}
+        img={enfermeira3}
         number="03"
         title="Impactos negativos"
         first_text="A ansiedade associada aos exames pode ser avassaladora. O HC Gaming entra em cena para reduzir esse impacto negativo, transformando o desconhecido em desafios mais gerenciáveis."
@@ -54,7 +58,7 @@ const Home = () => {
 
       <CardRight
         id="objetivo"
-        img={girlImg}
+        img={enfermeira}
         number="05"
         title="Objetivo"
         first_text="Transformar procedimentos médicos em emocionantes desafios, tornando cada momento no hospital uma aventura inesquecível para nossos pequenos heróis. Acreditamos que a jornada hospitalar das crianças pode ser mais do que apenas procedimentos médicos; pode ser uma emocionante aventura cheia de sorrisos, conquistas e heróis mirins!"
@@ -63,7 +67,7 @@ const Home = () => {
 
       <CardLeft
         id="positivos"
-        img={girlImg}
+        img={enfermeira2}
         number="06"
         title="Impactos positivos"
         first_text="Adesão ao Tratamento Aumentada:
