@@ -1,5 +1,3 @@
-# Sprint4-WebDevelopment
- 
 <div align="center">
   <h1>HC Gaming</h1>
 </div>
@@ -23,4 +21,4 @@
 
 ## :framed_picture: Link do Site
 
-Acesse o projeto [HC Gaming](https://thiagoaraujot.github.io/Sprint4-WebDevelopment/)
+Acesse o projeto [HC Gaming](https://sprint4-front-end.vercel.app/)
