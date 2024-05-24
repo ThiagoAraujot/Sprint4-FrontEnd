@@ -1,8 +1,26 @@
-# React + Vite
+# Sprint4-WebDevelopment
+ 
+<div align="center">
+  <h1>HC Gaming</h1>
+</div>
+<hr/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="#smile-Integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#framed_picture-Layout">Link do Projeto</a>
+</p>
+<hr/>
 
-Currently, two official plugins are available:
+## :smile: Integrantes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Felipe Schneider - RM552643](https://github.com/felpschneider)
+- [Hugo Santos - RM553266](https://github.com/ThiagoAraujot/CP1-WebDevelopment/commits?author=guguim)
+- [Maria Julia Araujo Rodrigues - RM553384](https://github.com/majuaraujo)
+- [Thiago Araujo Vieira - RM553477](https://github.com/ThiagoAraujot)
+- [Vinicius Centurion - RM554063](https://github.com/vinicenturion)
+
+###### Clique no nome para visitar o GitHub
+
+## :framed_picture: Link do Site
+
+Acesse o projeto [HC Gaming](https://thiagoaraujot.github.io/Sprint4-WebDevelopment/)
